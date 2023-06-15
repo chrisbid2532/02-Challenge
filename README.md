@@ -8,7 +8,7 @@ N/A
 This is for my potential employers to view the code and monitor my progress through out my coding bootcamp.
 
 ## Credits
-N/A
+The University of Minnesotta created this website. The repository is viewable to students of coding bootcamp.
 
 ## License
 MIT License
